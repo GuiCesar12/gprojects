@@ -10,11 +10,11 @@
 	<meta name="keywords" content="adminkit, bootstrap, bootstrap 5, admin, dashboard, template, responsive, css, sass, html, theme, front-end, ui kit, web">
 
 	<link rel="preconnect" href="https://fonts.gstatic.com">
-	<link rel="shortcut icon" href="{{ URL::asset('resources/img/icons/icon-48x48.png') }}" /><link rel="stylesheet" f="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" integrity="sha512-T3VL1q6jMUIzGLRB9z86oJg9PgF7A55eC2XkB93zyWSqQw3Ju+6IEJZYBfT7E9wOHM7HCMCOZSpcssxnUn6AeQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<!--<link rel="shortcut icon" href="{{ URL::asset('resources/img/icons/icon-48x48.png') }}" /><link rel="stylesheet" f="https://cdnjs.cloudflare.com/ajax/libs/jquery-modal/0.9.2/jquery.modal.min.css" integrity="sha512-T3VL1q6jMUIzGLRB9z86oJg9PgF7A55eC2XkB93zyWSqQw3Ju+6IEJZYBfT7E9wOHM7HCMCOZSpcssxnUn6AeQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />-->
 	<link rel="canonical" href="https://demo-basic.adminkit.io/" />
 	<link rel="stylesheet" href="https://unpkg.com/vis-timeline/dist/vis-timeline-graph2d.min.css" type="text/css">
 
-	<title>TrackTrace RX - GProjects</title>
+	<title>GProjects</title>
 	
 	<link href="{{ URL::asset('resources/css/app.css')}}" rel="stylesheet">
 	<link href="{{ URL::asset('resources/css/style.css')}}" rel="stylesheet">
@@ -44,9 +44,7 @@
 				<div class="container-fluid">
 					<div class="row text-muted">
 						<div class="col-6 text-start">
-							<p class="mb-0">
-								<a class="text-muted" href="https://https://www.tracktracerx.com" target="_blank"><strong>TrackTrace RX</strong></a> - <a class="text-muted" href="#"><strong>GProjects</strong></a>								&copy;
-							</p>
+							
 						</div>
 						
 					</div>
